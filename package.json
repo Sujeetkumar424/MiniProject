@@ -1,0 +1,15 @@
+{
+  "name": "POC_11am",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "mysql": "^2.15.0",
+    "mongodb": "^2.2.34",
+    "jwt-simple": "latest",
+    "body-parser": "latest",
+    "angular": "latest",
+    "angular-ui-router": "~0.2.18",
+    "ngstorage": "latest",
+    "bootstrap": "latest"
+  }
+}
